@@ -31,7 +31,7 @@ $query=mysqli_query($con,"insert into booking(vehicle,vehicleid,userid,charge,re
     <meta name="author" content="Dashboard">
     <meta name="keyword" content="Dashboard, Bootstrap, Admin, Template, Theme, Responsive, Fluid, Retina">
 
-    <title>User | Booking</title>
+    <title>Admin | Booking</title>
     <link href="../admin/assets/css/bootstrap.css" rel="stylesheet">
     <link href="../admin/assets/font-awesome/css/font-awesome.css" rel="stylesheet" />
     <link href="../admin/assets/css/style.css" rel="stylesheet">
